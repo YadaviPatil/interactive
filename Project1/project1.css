@@ -6,21 +6,25 @@ body {background-color: #d2e0d1;}
 font-size: 15px;
 margin: 40px;
 color: #27382c;
-position: relative;}
+position: relative;
+}
 
 #Footer {font-family:"Lato Regular", "Courier New", monospace;
 font-size: 15px;
-position: realtive;}
+position: relative;
+margin-bottom: 20px;
+margin-left: 40px;
+}
 
 img {
-    position: relative;
     width:  400px;
     height: 400px;
     object-fit: cover;
 }
 
-.container:hover {
-    color: blue;
+.container {
+    /*columns: 4;*/
+    display: flex;
 }
 
 
