@@ -1,16 +1,20 @@
+
+
+table, th, td {
+  border: 10px solid brown;
+}
+
+
 h1 {
   color: black;
    float: center;
-  margin: 200px;
-  
-}
+  }
 
 img {
   width: 100px;
   float: left;
   margin: 15px;
-  
-}
+  }
 
 .column {
   float: Left;
@@ -19,9 +23,19 @@ img {
 }
 
 
+p { padding: 20px 500px;}
 
 
-p {
+h1 {
+  color: blue;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 5rem;
+}
 
-  padding: 20px 500px;
+body {
+ background-color: #7ba832;
+}
+.centered {
+  position: relative;
+  left: 200px;
 }
