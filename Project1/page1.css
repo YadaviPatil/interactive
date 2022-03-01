@@ -1,50 +1,60 @@
 
 
-body {background-color: #d2e0d1;}
+body {background-color: #d7e6cc;}
+
+H1{font-family: sans-serif;
+color: #56634d;
+padding: 0px;
+margin-top: 20px;
+margin-bottom: 0px;}
+
+.header {
+position: relative;
+left: 150px;
+}
 
 #line1 {font-family:"Lato Regular", "Courier New", monospace;
 font-size: 15px;
-margin: 40px;
-color: #27382c;
+color: #56634d;
 position: relative;
-width: 100px;}
+width: 250px;
+}
 
-#Footer {font-family:"Lato Regular", "Courier New", monospace;
-font-size: 15px;
-position: relative;}
+.text{float: right;
+padding-right: 300px;
+margin-top: 235px;}
 
-#link
-{padding-left: 100px;}
+.link{
+font-family: monospace;
+}
 
-img {
+.img {
     float: left;
-    width:  400px;
-    height: 400px;
+    width:  500px;
+    height: 500px;
     object-fit: cover;
 }
 
-.container:hover {
-    color: blue;
-}
+
 
 /* unvisited link */
 a:link {
-  color: #304d30;
+  color: #3a473c;
 }
 
 /* visited link */
 a:visited {
-  color: #ff4400;
+  color: #7bad83;
 }
 
 /* mouse over link */
 a:hover {
-  color: #bfd4be;
+  color: #ffffff;
 }
 
 /* selected link */
 a:active {
-  color: #304d30;
+  color: #1c1717;
 }
 
 

@@ -1,0 +1,69 @@
+
+body {
+  background-color:#d7e6cc;
+}
+
+.header{
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.text {
+text-align: center;
+top margin: 700px;
+margin-left: 550px;
+margin-right: 550px;
+}
+
+#line1 {
+  font-family: “Lato Regular”, “Courier New”, monospace;
+  color: #56634d;
+  font-size: 15px;
+  margin: 40px;
+  color: #27382c;
+  position: relative;
+}
+
+#back {
+margin-left: 900px;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #3a473c;
+}
+
+/* visited link */
+a:visited {
+  color: #7bad83;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffffff;
+}
+
+/* selected link */
+a:active {
+  color: #1c1717;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
