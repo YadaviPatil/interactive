@@ -1,0 +1,65 @@
+
+body{
+	background-color:#301d0c;
+	padding: 20px;
+}
+
+
+#Zami{
+	font-family: monospace;
+	font-size: 200px;
+	color: #ff0051;
+	padding-bottom: 0px;
+}
+
+#subtitle{
+	font-family: monospace;
+	font-size: 20px;
+	color: #ff0051;
+	padding-top: 0px;
+	margin-top: -30px;
+}
+
+#name{
+	font-family: monospace;
+	font-size: 20px;
+	color:  #ff0051;
+	margin-top: 300px;
+}
+
+#text{
+	font-family: monospace;
+	font-size: 15px;
+	color: #bcecf5;
+	margin-top: 30px;
+	columns: 1;
+}
+
+#questions{
+	font-family: monospace;
+	font-size: 20px;
+	color: #bcecf5;
+	margin-top: 30px;
+	columns: 1;
+	margin-bottom: 10px;
+	columns: 2;
+
+}
+
+#fname {
+background: #ff0051;
+opacity: 30%;
+width: 200px;
+height: 90px;
+margin-top: 20px;
+border-color: white;
+
+}
+
+#text1{
+	font-family: monospace;
+	font-size: 15px;
+	color: #bcecf5;
+	margin-top: 90px;
+	columns: 1;
+}

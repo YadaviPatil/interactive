@@ -1,0 +1,58 @@
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}
+body{
+	background-color: #c75204;
+	padding: 20px;
+}
+
+
+#Zami{
+	font-size: 200px;
+	color: white;
+	padding-bottom: 0px;
+}
+
+#subtitle{
+	font-size: 20px;
+	color: white;
+	padding-top: 0px;
+	margin-top: -30px;
+}
+
+#name{
+	font-size: 20px;
+	color:  white;
+	margin-top: 300px;
+}
+
+#text{
+	font-size: 15px;
+	color: white;
+	margin-top: 30px;
+	columns: 1;
+}
+
+#questions{
+	font-size: 15px;
+	color: white;
+	margin-top: 30px;
+	columns: 1;
+
+}
+
+.form-all {
+background: none;
+}
+
+#text1{
+	font-size: 15px;
+	color: white;
+	margin-top: 90px;
+	columns: 1;
+}

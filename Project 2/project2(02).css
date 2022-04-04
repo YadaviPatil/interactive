@@ -1,0 +1,57 @@
+
+body{
+	background-color:#423e3e;
+	padding: 20px;
+}
+
+
+#Zami{
+	font-size: 200px;
+	color: white;
+	padding-bottom: 0px;
+}
+
+#subtitle{
+	font-size: 20px;
+	color: white;
+	padding-top: 0px;
+	margin-top: -30px;
+}
+
+#name{
+	font-size: 20px;
+	color:  white;
+	margin-top: 300px;
+}
+
+#text{
+	font-size: 15px;
+	color: white;
+	margin-top: 30px;
+	columns: 1;
+}
+
+#questions{
+	font-size: 15px;
+	color: white;
+	margin-top: 30px;
+	columns: 1;
+	margin-bottom: 10px;
+
+}
+
+#fname {
+background: white;
+opacity: 10%;
+width: 300px;
+height: 90px;
+margin-top: 20px;
+
+}
+
+#text1{
+	font-size: 15px;
+	color: white;
+	margin-top: 90px;
+	columns: 1;
+}

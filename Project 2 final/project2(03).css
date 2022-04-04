@@ -1,0 +1,113 @@
+
+body{
+	background-color:#52290a;
+	padding: 20px;
+}
+
+
+#Zami{
+	font-size: 200px;
+	color: #f2e4da;
+	padding-bottom: 0px;
+}
+
+#subtitle{
+	font-size: 20px;
+	color: #f2e4da;
+	padding-top: 0px;
+	margin-top: -30px;
+}
+
+#name{
+	font-size: 20px;
+	color:  #f2e4da;
+	margin-top: 300px;
+}
+
+#text2{
+	font-size: 15px;
+	color: #f2e4da;
+	margin-top: 30px;
+	columns: 1;
+}
+
+#large-quotes{
+	color: #f2e4da;
+	margin-top: 40px;
+
+}
+
+#questions{
+	font-size: 30px;
+	font-style: italic;
+	color: #f2e4da;
+	margin-top: 30px;
+	columns: 1;
+	margin-bottom: 10px;
+
+}
+
+#fname {
+background: white;
+opacity: 10%;
+width: 400px;
+height: 90px;
+margin-top: 20px;
+
+}
+
+#text1{
+	font-size: 15px;
+	color: #f2e4da;
+	margin-top: 90px;
+	columns: 1;
+}
+
+textarea {
+  border: 1px solid white;
+  border-radius: 3px;
+  background-color: #52290a;
+  color: white;
+  padding: 0px;
+  width: 500px;
+  height: 100px;
+  color: white;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  margin: 20px 20px 20px 20px;
+}
+/* text box styling */
+
+fieldset {
+  border: none;
+}
+
+button {
+  background-color: #52290a;
+  border: .5px
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  padding: 0;
+  border-radius: 0px;
+  width: 100px;
+  height: 30px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+/* universal styles */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  margin: 20px 20px 20px 20px;
+}
+/* text box styling */
+
+fieldset {
+  border: none;
+}
+
+textarea {
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+}
+
+/* submit button styling */
+
+button {
+  background-color: red;
+  border: 1px solid white;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 0;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* body text styles */
+
+.body-text {
+  max-width: 45vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
