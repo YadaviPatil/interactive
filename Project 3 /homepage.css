@@ -1,0 +1,61 @@
+
+
+
+#columns {
+column-count: 4;
+color: White;
+font-size: 15px;
+position: relative;
+top: 90px;
+color: lightgreen;
+} 
+
+body {
+ background-color: white;
+ margin-bottom: 50px;
+ margin-left: 20px;
+ margin-right: 20px;
+}
+
+h1 {color: black;
+font-size: 90px;
+font-family: sans-serif;
+margin-top: 300px;
+}
+
+#title {margin-top: 300 px;}
+
+#link {font-size: 12px;}
+
+#quote{color:white;
+position: relative;
+margin-left: 669px;}
+
+
+
+a:link {
+  color: white; 
+}
+
+a:visited {
+  color: lightgreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+
+
+
