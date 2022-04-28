@@ -2,7 +2,6 @@
 
 #rules{
 font-family: oswald, sans-serif;
-font-size: 20px;
 margin-top: 10px;
 }
 
@@ -19,6 +18,13 @@ h1 {
 font-family: oswald, sans-serif;
 color: #e09736;
 font-size: 85px;
-margin-top: 300px;
+margin-top: 50px;
 line-height: 90px;
+}
+
+img {
+ max-width: 70%;
+ max-height: 70%;
+padding-top: 50px;
+padding-left: 50px;
 }

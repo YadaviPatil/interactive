@@ -1,0 +1,63 @@
+body {background-color: #fc4103;}
+
+#top{
+	font-size: 200px;
+font-family: dunbar-low, sans-serif;
+padding-left: 50px;
+padding-bottom: 0px;
+padding-top: 200px;
+color: white;
+}
+
+#subtitle{
+	font-size: 20px;
+	font-family: dunbar-low, sans-serif;
+	font-style: normal;
+	padding-left: 50px;
+	margin-top: -80px;
+	color: white;
+
+}
+
+#sections{
+	color: white;
+	font-size: 25px;
+	font-family: dunbar-low, sans-serif; ;
+	padding-left: 50px;
+}
+
+#project{
+font-family: dunbar-low, sans-serif;
+font-style: normal;
+font-size: 20px;
+padding-left: 70px;
+
+}
+
+<style>
+  @import url("https://use.typekit.net/jqb2erg.css");
+</style>
+
+
+
+a:link {
+  color:white; 
+}
+
+a:visited {
+  color:white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:  #e7d7fa;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color:  #000000;
+  background-color: transparent;
+  text-decoration: underline;
+}
