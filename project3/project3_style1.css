@@ -1,0 +1,41 @@
+ @import url("https://use.typekit.net/rpx6rqj.css");
+
+body {
+font-family: oswald, sans-serif;
+font-weight: 400;
+font-style: normal;
+  font-size: 600 px;
+  line-height: 1 em;
+  margin:50px;
+  color: white;
+  height: 100vh;
+  background: linear-gradient(
+  	to bottom,
+  	#e09736 0%,
+  	#e09736 55%,
+  	whitesmoke 55%,
+  	whitesmoke 100%);
+}
+
+div {
+	text-align: center;
+}
+
+ @media all and (max-width: 500px) {
+  body {
+    font-size: 100px;
+  line-height: 1.5 em;
+  }
+}
+
+main {
+  font-size: 20px;
+  margin: 25px 0;
+  padding: 30px;
+
+}
+
+.center {
+  margin: 0 auto;
+  width: 200px;
+  padding: px;
